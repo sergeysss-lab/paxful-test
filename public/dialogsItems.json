@@ -1,0 +1,539 @@
+[
+  {
+    "id": "5ef333a277c7e979353adcea",
+    "isPaid": true,
+    "avatar": "https://i.pinimg.com/originals/7c/c7/a6/7cc7a630624d20f7797cb4c8e93c09c1.png",
+    "payMethod": "iTunes Gift Card",
+    "name": "Hicks",
+    "startAt": "2020-06-24T14:02+03:00",
+    "rating": {
+      "good": 30,
+      "bad": 4
+    },
+    "interlocutorAvatar": "https://img2.looper.com/img/gallery/why-were-worried-about-avatar-2/its-been-over-ten-years-since-the-original-1521230253.jpg",
+    "numberOfTrades": 8,
+    "tradeHash": "4as45ADa9",
+    "messages": [
+      {
+        "id": 0,
+        "text": "Id labore sint aliqua commodo ullamco ipsum consequat quis eiusmod voluptate commodo nulla id. Officia exercitation mollit quis aute cillum ullamco cupidatat in dolore minim nisi voluptate et do. Enim adipisicing ad sit deserunt ad nisi anim quis proident dolore nulla ea.\r\n",
+        "date": "12:4 pm",
+        "type": "BUYER_TYPE"
+      },
+      {
+        "id": 1,
+        "text": "Tempor officia amet elit sunt et dolor sit pariatur consectetur magna velit reprehenderit ut fugiat. Cillum ullamco esse quis do consequat enim. Consequat amet mollit veniam sit magna esse id consequat incididunt. Ex dolore est deserunt irure dolor mollit officia. Mollit ad amet laboris exercitation eiusmod excepteur veniam magna sunt magna sit. Anim mollit eiusmod est ad sunt incididunt reprehenderit eu quis irure nisi. Officia eu labore qui cupidatat culpa pariatur nostrud deserunt.\r\n",
+        "date": "11:17 am",
+        "type": "BUYER_TYPE"
+      },
+      {
+        "id": 2,
+        "text": "Voluptate sint est laborum consequat et labore tempor labore. Dolor ullamco esse duis eiusmod ex ut ad sint minim et id incididunt nulla minim. Pariatur proident eu fugiat in. Culpa veniam exercitation sit proident et incididunt proident aute sint esse est. Sunt laborum tempor veniam culpa mollit amet labore qui non officia consectetur culpa adipisicing tempor.\r\n",
+        "date": "9:14 pm",
+        "type": "SELLER_TYPE"
+      },
+      {
+        "id": 3,
+        "text": "Anim consectetur fugiat fugiat adipisicing nulla magna. Aliqua adipisicing duis do id laborum ea reprehenderit voluptate Lorem cupidatat aliqua deserunt ea ut. Aute incididunt elit culpa nisi velit ut ipsum aute sit occaecat non deserunt. Id incididunt sunt duis laboris.\r\n",
+        "date": "2:57 pm",
+        "type": "BUYER_TYPE"
+      },
+      {
+        "id": 4,
+        "text": "Tempor irure ipsum sit enim do sunt tempor cupidatat elit duis. Occaecat reprehenderit laborum elit excepteur sit aliqua consequat nulla esse proident eiusmod reprehenderit. Irure magna nostrud excepteur et ut quis fugiat voluptate cupidatat. Mollit veniam magna magna consequat ipsum.\r\n",
+        "date": "6:58 am",
+        "type": "SELLER_TYPE"
+      },
+      {
+        "id": 5,
+        "text": "Nisi non nisi consequat adipisicing nulla qui dolore qui aliquip sunt labore qui. Incididunt sit sint dolore quis ad nostrud cillum enim ut tempor cupidatat est proident sint. Eu fugiat eu laboris nisi proident veniam. Anim esse Lorem aliquip cupidatat consectetur ex sint adipisicing velit voluptate anim ex labore nisi.\r\n",
+        "date": "10:45 pm",
+        "type": "BUYER_TYPE"
+      },
+      {
+        "id": 6,
+        "text": "Nostrud ipsum aute exercitation dolore mollit et eu aliquip dolore qui. Aliquip qui reprehenderit exercitation esse commodo. Fugiat qui tempor commodo duis do consequat cillum veniam. Ipsum magna ullamco ex sunt Lorem ipsum occaecat aute ea culpa minim anim ullamco. Mollit esse enim duis non elit cillum. Pariatur Lorem aute sunt aliquip aliquip occaecat nulla.\r\n",
+        "date": "5:19 am",
+        "type": "SELLER_TYPE"
+      }
+    ],
+    "newMessage": {
+      "SELLER_TYPE": true,
+      "BUYER_TYPE": false
+    }
+  },
+  {
+    "id": "5ef333a2436d485d6c1bb8b5",
+    "isPaid": false,
+    "avatar": "https://i.pinimg.com/originals/7c/c7/a6/7cc7a630624d20f7797cb4c8e93c09c1.png",
+    "payMethod": "PayPal",
+    "name": "Mcclure",
+    "startAt": "2020-06-24T12:01+03:00",
+    "rating": {
+      "good": 21,
+      "bad": 6
+    },
+    "interlocutorAvatar": "https://img2.looper.com/img/gallery/why-were-worried-about-avatar-2/its-been-over-ten-years-since-the-original-1521230253.jpg",
+    "numberOfTrades": 7,
+    "tradeHash": "4as45ADa9",
+    "messages": [
+      {
+        "id": 0,
+        "text": "Occaecat cupidatat nostrud cillum elit irure. Et deserunt irure non ut mollit dolore laborum non. Ullamco exercitation ea officia est voluptate cupidatat ex id commodo irure. Ad pariatur nostrud labore ut eiusmod sint exercitation non nostrud. Exercitation adipisicing Lorem consectetur magna est et proident.\r\n",
+        "date": "1:12 am",
+        "type": "SELLER_TYPE"
+      },
+      {
+        "id": 1,
+        "text": "Consectetur consequat non dolor laboris laboris aliquip quis deserunt irure. Duis eu tempor nisi adipisicing sunt veniam id deserunt exercitation cupidatat magna Lorem sunt sint. Esse culpa esse exercitation incididunt dolor elit fugiat elit consectetur consectetur sint qui nostrud. Consectetur duis anim ut amet cupidatat quis incididunt esse cupidatat ipsum excepteur. Ea dolor Lorem enim dolor pariatur est Lorem do sunt. Enim qui consectetur aliqua dolor do aliquip enim eu cupidatat aliqua consequat.\r\n",
+        "date": "7:8 am",
+        "type": "SELLER_TYPE"
+      },
+      {
+        "id": 2,
+        "text": "Magna nostrud quis aliqua labore in. Anim dolor sint sit commodo Lorem voluptate eiusmod amet est in commodo. Culpa labore pariatur duis officia dolore et exercitation qui laboris tempor duis dolor. Anim pariatur mollit ex sint velit mollit adipisicing irure do proident. Culpa sunt exercitation in consequat id adipisicing ullamco laboris cupidatat et enim.\r\n",
+        "date": "1:16 am",
+        "type": "SELLER_TYPE"
+      },
+      {
+        "id": 3,
+        "text": "Commodo qui non adipisicing adipisicing sint occaecat laboris. Anim cupidatat dolor magna eu deserunt sunt mollit ex. Laboris voluptate ullamco exercitation veniam ut exercitation duis deserunt duis incididunt minim laboris magna sint. Irure reprehenderit occaecat proident labore sunt amet non. Labore consectetur ipsum sint nisi cillum ad amet proident exercitation.\r\n",
+        "date": "8:0 am",
+        "type": "SELLER_TYPE"
+      },
+      {
+        "id": 4,
+        "text": "Exercitation sit occaecat non consequat labore aliquip reprehenderit quis aliqua est culpa ex do laboris. Sunt aliquip et minim adipisicing qui duis amet veniam tempor proident et tempor deserunt dolor. Do in ex proident aute Lorem. Labore fugiat labore sint officia fugiat voluptate nostrud Lorem.\r\n",
+        "date": "3:7 am",
+        "type": "BUYER_TYPE"
+      }
+    ],
+    "newMessage": {
+      "SELLER_TYPE": false,
+      "BUYER_TYPE": true
+    }
+  },
+  {
+    "id": "5ef333a210aac9aaeb3d0c6e",
+    "isPaid": true,
+    "avatar": "https://i.pinimg.com/originals/7c/c7/a6/7cc7a630624d20f7797cb4c8e93c09c1.png",
+    "payMethod": "iTunes Gift Card",
+    "name": "Holcomb",
+    "startAt": "2020-06-23T09:39+03:00",
+    "rating": {
+      "good": 39,
+      "bad": 0
+    },
+    "interlocutorAvatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQmBT7KRljEpKFvp85BUrofpvZlmgGSiOIcK4sftx1ZphbI6ow3&usqp=CAU",
+    "numberOfTrades": 0,
+    "tradeHash": "4as45ADa9",
+    "messages": [
+      {
+        "id": 0,
+        "text": "Aliqua enim labore consectetur id cupidatat tempor ipsum occaecat sunt. Et ipsum irure est non veniam ex cillum fugiat eu. Eu consequat fugiat amet labore excepteur elit. Exercitation anim nulla aute occaecat labore consectetur cillum cillum consectetur fugiat fugiat. Velit ex cillum consequat elit amet reprehenderit tempor culpa in. Culpa sit occaecat nulla tempor nisi esse tempor sint officia reprehenderit id tempor sint exercitation.\r\n",
+        "date": "3:53 am",
+        "type": "BUYER_TYPE"
+      },
+      {
+        "id": 1,
+        "text": "Sint elit elit culpa laborum cillum adipisicing pariatur aute est mollit sit do anim duis. Magna pariatur deserunt eiusmod fugiat veniam deserunt ad quis cupidatat sit. Ea aute ullamco non magna laboris non ea culpa officia proident ad.\r\n",
+        "date": "8:4 pm",
+        "type": "BUYER_TYPE"
+      },
+      {
+        "id": 2,
+        "text": "Excepteur officia laborum nisi anim ipsum cillum veniam nisi reprehenderit amet in Lorem magna id. Quis adipisicing nulla aute culpa minim magna fugiat deserunt ut laboris excepteur. Velit cillum qui laboris anim labore velit aliquip adipisicing nulla ipsum. Eu nulla enim voluptate do qui ea anim ea. Nostrud nostrud sit adipisicing excepteur reprehenderit veniam et ex elit nisi nulla aute.\r\n",
+        "date": "11:53 am",
+        "type": "BUYER_TYPE"
+      },
+      {
+        "id": 3,
+        "text": "Pariatur est Lorem eiusmod proident veniam deserunt proident sint enim ullamco officia. Est et voluptate reprehenderit aliqua ut adipisicing enim fugiat. Commodo do cupidatat sit elit nostrud consectetur. Tempor officia deserunt eiusmod est culpa magna elit et ea minim esse exercitation sunt incididunt. Id aliquip do excepteur magna incididunt ad consequat dolor duis irure esse fugiat amet commodo. Ea esse esse sunt cupidatat id consequat veniam ad enim minim eu fugiat qui. Consequat reprehenderit sunt ad elit in proident deserunt est eiusmod qui.\r\n",
+        "date": "8:1 pm",
+        "type": "BUYER_TYPE"
+      },
+      {
+        "id": 4,
+        "text": "Ullamco deserunt excepteur sit veniam quis excepteur nisi tempor velit enim. Aliqua fugiat eu labore nulla ad nisi amet. Amet quis sit sunt labore consequat id excepteur reprehenderit velit.\r\n",
+        "date": "2:50 pm",
+        "type": "SELLER_TYPE"
+      }
+    ],
+    "newMessage": {
+      "SELLER_TYPE": true,
+      "BUYER_TYPE": true
+    }
+  },
+  {
+    "id": "5ef333a2658ec95302f515d8",
+    "isPaid": false,
+    "avatar": "https://i.pinimg.com/originals/7c/c7/a6/7cc7a630624d20f7797cb4c8e93c09c1.png",
+    "payMethod": "iTunes Gift Card",
+    "name": "Rios",
+    "startAt": "2020-06-23T09:25+03:00",
+    "rating": {
+      "good": 9,
+      "bad": 1
+    },
+    "interlocutorAvatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQmBT7KRljEpKFvp85BUrofpvZlmgGSiOIcK4sftx1ZphbI6ow3&usqp=CAU",
+    "numberOfTrades": 10,
+    "tradeHash": "4as45ADa9",
+    "messages": [
+      {
+        "id": 0,
+        "text": "Aute aliqua aliqua sint ipsum elit minim eu ad non velit consectetur anim proident elit. Fugiat eiusmod mollit incididunt ipsum laboris velit ad pariatur duis sunt ipsum cupidatat. Duis reprehenderit consectetur nostrud nulla culpa veniam fugiat fugiat ad eu ipsum eu. Ea aliquip cillum voluptate excepteur labore. Aliquip pariatur quis est mollit. Non aute reprehenderit quis anim in enim ullamco laboris laborum laboris reprehenderit exercitation nulla veniam. Fugiat sunt sit deserunt duis esse veniam consectetur id.\r\n",
+        "date": "12:13 pm",
+        "type": "SELLER_TYPE"
+      },
+      {
+        "id": 1,
+        "text": "Ea eiusmod dolor dolore est nulla magna dolor ea. Cillum consectetur consectetur nostrud veniam pariatur aute reprehenderit id esse Lorem irure irure. Nostrud et irure laboris eu eu ea consectetur proident sunt amet aliquip reprehenderit aliquip. Irure magna magna consequat amet in sint proident officia sint ullamco quis duis. Anim exercitation adipisicing eiusmod ea enim pariatur anim.\r\n",
+        "date": "6:41 am",
+        "type": "BUYER_TYPE"
+      },
+      {
+        "id": 2,
+        "text": "Incididunt id commodo minim culpa velit nisi et aliquip consequat quis amet. Eiusmod mollit laboris dolore tempor in incididunt nostrud nostrud id est dolor. Aliquip adipisicing laborum cupidatat labore cupidatat. Dolore do ipsum tempor id irure in ex. Mollit voluptate nisi ipsum commodo excepteur Lorem. Magna ipsum nisi magna enim sint culpa est labore.\r\n",
+        "date": "9:7 pm",
+        "type": "SELLER_TYPE"
+      },
+      {
+        "id": 3,
+        "text": "Ea elit mollit ex deserunt ut ipsum ut elit ea commodo do. Minim cupidatat eu sint cupidatat id mollit aute. Commodo culpa non eiusmod ex in incididunt ad dolor veniam ullamco elit elit commodo. Cillum proident et commodo sunt anim ad magna fugiat reprehenderit. Irure consequat est cillum proident proident culpa mollit.\r\n",
+        "date": "5:21 am",
+        "type": "SELLER_TYPE"
+      },
+      {
+        "id": 4,
+        "text": "Elit culpa reprehenderit sunt officia qui nulla in aute quis fugiat id. Veniam enim ex proident eu adipisicing duis reprehenderit quis ipsum. Occaecat proident velit do est mollit veniam minim velit sint veniam. Sunt consectetur dolore ullamco magna laboris velit magna irure eu aliqua laboris. Eu sit veniam reprehenderit minim. Esse duis id voluptate cillum. Voluptate nulla enim culpa aliquip id in anim voluptate.\r\n",
+        "date": "6:59 am",
+        "type": "BUYER_TYPE"
+      },
+      {
+        "id": 5,
+        "text": "Consectetur nulla non aliqua nulla tempor irure consectetur adipisicing fugiat cillum magna amet est. Occaecat irure mollit id excepteur laboris ipsum quis ad commodo cillum. Cillum in eiusmod nostrud dolor do sint labore minim et fugiat aute. Tempor minim deserunt dolore magna ad occaecat laborum cupidatat nulla eu ex deserunt nulla minim. Est laboris laboris aliquip et velit sit duis non occaecat fugiat ipsum.\r\n",
+        "date": "1:46 am",
+        "type": "BUYER_TYPE"
+      }
+    ],
+    "newMessage": {
+      "SELLER_TYPE": true,
+      "BUYER_TYPE": false
+    }
+  },
+  {
+    "id": "5ef333a2c693ca0c88544d9c",
+    "isPaid": true,
+    "avatar": "https://i.pinimg.com/originals/7c/c7/a6/7cc7a630624d20f7797cb4c8e93c09c1.png",
+    "payMethod": "Amazon Gift Card",
+    "name": "Olson",
+    "startAt": "2020-06-24T03:10+03:00",
+    "rating": {
+      "good": 30,
+      "bad": 3
+    },
+    "interlocutorAvatar": "https://img2.looper.com/img/gallery/why-were-worried-about-avatar-2/its-been-over-ten-years-since-the-original-1521230253.jpg",
+    "numberOfTrades": 1,
+    "tradeHash": "4as45ADa9",
+    "messages": [
+      {
+        "id": 0,
+        "text": "Laborum esse excepteur proident minim. Do pariatur irure ipsum veniam Lorem elit ipsum tempor laborum. Officia officia eiusmod consequat voluptate ad duis quis do ea dolore. Dolore commodo laboris dolore velit labore anim ea ullamco esse sunt labore.\r\n",
+        "date": "6:39 am",
+        "type": "SELLER_TYPE"
+      },
+      {
+        "id": 1,
+        "text": "Adipisicing ipsum nostrud ut anim id ut minim. Exercitation culpa pariatur dolor reprehenderit incididunt sit ipsum duis sunt. Veniam duis sint non non mollit labore tempor eiusmod officia magna mollit. Tempor irure ex in ut ad. Culpa consectetur anim enim sunt proident. Laboris fugiat sint labore adipisicing consequat ullamco cillum duis esse dolore officia excepteur. Officia sunt magna qui et ipsum amet.\r\n",
+        "date": "12:18 pm",
+        "type": "BUYER_TYPE"
+      },
+      {
+        "id": 2,
+        "text": "Magna ipsum sint aliqua consequat aliqua ut esse culpa irure labore ad. Proident proident Lorem cillum reprehenderit culpa in sint nostrud id ullamco. Adipisicing minim veniam est magna.\r\n",
+        "date": "2:48 pm",
+        "type": "SELLER_TYPE"
+      },
+      {
+        "id": 3,
+        "text": "Laboris anim laboris anim anim fugiat anim fugiat in Lorem. Aliquip magna tempor dolore labore exercitation incididunt aliquip. Duis ex duis dolore minim anim exercitation labore proident mollit magna nostrud Lorem labore ut. Deserunt ullamco consequat aliquip qui non.\r\n",
+        "date": "8:47 pm",
+        "type": "BUYER_TYPE"
+      },
+      {
+        "id": 4,
+        "text": "Ullamco ipsum commodo labore occaecat. Exercitation dolor do ad ex consectetur. Nulla aliquip est quis Lorem adipisicing est dolor. Amet labore anim et ipsum veniam incididunt eu elit elit esse dolore. Consectetur fugiat duis elit laboris enim qui culpa. Aute est ea commodo sunt veniam cupidatat cupidatat esse aliqua id. Dolor amet minim id id aliqua anim consectetur dolor aute duis culpa.\r\n",
+        "date": "6:53 pm",
+        "type": "SELLER_TYPE"
+      },
+      {
+        "id": 5,
+        "text": "Proident anim velit adipisicing aliqua qui ipsum sint pariatur cupidatat eu. Cillum reprehenderit ea cupidatat fugiat amet incididunt qui. Voluptate qui enim duis amet non labore ullamco aliqua. Cillum nostrud minim reprehenderit ullamco do fugiat ex nisi. Voluptate excepteur qui aute anim tempor nulla qui ex voluptate pariatur pariatur consectetur quis.\r\n",
+        "date": "12:17 am",
+        "type": "SELLER_TYPE"
+      },
+      {
+        "id": 6,
+        "text": "Eiusmod enim magna occaecat officia elit consequat do. Ad aute non laboris irure sunt. Et cillum laborum eiusmod deserunt cupidatat cupidatat ex veniam ea eu. Eiusmod ut esse adipisicing occaecat sunt est excepteur pariatur proident tempor eiusmod. Commodo est et proident adipisicing culpa tempor proident do aute voluptate velit sint.\r\n",
+        "date": "2:44 am",
+        "type": "BUYER_TYPE"
+      },
+      {
+        "id": 7,
+        "text": "Adipisicing ut in laboris pariatur nostrud officia consectetur non cillum nulla occaecat ipsum. Commodo aliqua aliqua eiusmod proident occaecat. Mollit occaecat deserunt et proident nulla tempor et commodo. Ut nostrud Lorem ea exercitation excepteur veniam anim enim reprehenderit. Est ad velit ex Lorem consectetur exercitation laborum occaecat id excepteur pariatur dolor. Dolor eiusmod mollit ipsum consequat mollit occaecat duis nisi tempor. Voluptate minim anim esse mollit consequat reprehenderit cillum.\r\n",
+        "date": "12:55 am",
+        "type": "SELLER_TYPE"
+      }
+    ],
+    "newMessage": {
+      "SELLER_TYPE": false,
+      "BUYER_TYPE": true
+    }
+  },
+  {
+    "id": "5ef333a26d18e55523e3f3eb",
+    "isPaid": false,
+    "avatar": "https://i.pinimg.com/originals/7c/c7/a6/7cc7a630624d20f7797cb4c8e93c09c1.png",
+    "payMethod": "iTunes Gift Card",
+    "name": "Klein",
+    "startAt": "2020-06-23T04:54+03:00",
+    "rating": {
+      "good": 30,
+      "bad": 6
+    },
+    "interlocutorAvatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS64QQXqtbyCe332XDHhESeSD0f9EIzpPbUa2crDly0aWzEAHkk&usqp=CAU",
+    "numberOfTrades": 7,
+    "tradeHash": "4as45ADa9",
+    "messages": [
+      {
+        "id": 0,
+        "text": "Nostrud voluptate et est laborum eiusmod sunt amet amet ullamco dolor irure laboris ea fugiat. Enim dolore laborum id ut occaecat consectetur ea id commodo occaecat irure commodo sit ex. Incididunt amet id et enim ea ad reprehenderit velit. Officia nostrud aute voluptate dolor esse id enim anim excepteur ipsum minim. Amet voluptate commodo fugiat Lorem qui ex.\r\n",
+        "date": "3:58 pm",
+        "type": "BUYER_TYPE"
+      },
+      {
+        "id": 1,
+        "text": "In voluptate duis cillum ea est elit officia culpa. Et ea incididunt mollit enim ullamco aliquip. Sunt dolor pariatur esse laboris eu nostrud adipisicing esse adipisicing.\r\n",
+        "date": "2:42 am",
+        "type": "SELLER_TYPE"
+      },
+      {
+        "id": 2,
+        "text": "Laboris duis laborum fugiat elit dolor ex. Irure sit quis in ex culpa id eiusmod duis. Nostrud in consequat veniam minim Lorem velit ex. Consequat laboris ad dolor duis ea pariatur aute proident officia sunt exercitation aute magna minim. Ad esse incididunt adipisicing ad minim cupidatat nulla occaecat eu anim. Esse ex nostrud elit velit minim sit excepteur deserunt et esse nostrud aliqua fugiat amet.\r\n",
+        "date": "7:16 pm",
+        "type": "BUYER_TYPE"
+      },
+      {
+        "id": 3,
+        "text": "Tempor veniam nisi do nostrud quis. Nulla officia do id et labore anim aliquip exercitation in exercitation aute. Labore deserunt ad voluptate est officia. Proident veniam ea id consectetur cupidatat amet do nisi ullamco voluptate proident dolore. Do pariatur amet Lorem cupidatat id reprehenderit ut reprehenderit.\r\n",
+        "date": "6:18 pm",
+        "type": "BUYER_TYPE"
+      },
+      {
+        "id": 4,
+        "text": "Sunt exercitation voluptate nulla minim mollit sint officia incididunt dolore. Sunt labore voluptate proident Lorem et id Lorem veniam occaecat aute fugiat amet est minim. Aliquip ut ut occaecat commodo elit laboris aute duis aliqua. Anim ullamco officia exercitation non sunt dolor consequat eu non Lorem adipisicing amet minim. Magna deserunt quis aute minim nostrud nulla aute sunt. Incididunt ipsum sunt minim ea elit irure aliquip amet in. Ullamco id et reprehenderit labore aliquip exercitation.\r\n",
+        "date": "9:52 am",
+        "type": "SELLER_TYPE"
+      },
+      {
+        "id": 5,
+        "text": "Adipisicing cupidatat commodo minim duis proident cupidatat nisi sunt anim dolore eiusmod nostrud est Lorem. Aute laboris enim eiusmod proident minim ad exercitation sunt ullamco veniam. Pariatur anim laborum dolore anim eu tempor mollit quis incididunt proident. Ullamco qui ad velit officia amet duis occaecat consectetur nostrud laborum. Enim adipisicing proident velit tempor veniam dolore tempor irure et ullamco labore.\r\n",
+        "date": "7:16 pm",
+        "type": "BUYER_TYPE"
+      }
+    ],
+    "newMessage": {
+      "SELLER_TYPE": true,
+      "BUYER_TYPE": true
+    }
+  },
+  {
+    "id": "5ef333a23f7a5fb8c341c454",
+    "isPaid": true,
+    "avatar": "https://i.pinimg.com/originals/7c/c7/a6/7cc7a630624d20f7797cb4c8e93c09c1.png",
+    "payMethod": "PayPal",
+    "name": "Lynch",
+    "startAt": "2020-06-23T07:19+03:00",
+    "rating": {
+      "good": 25,
+      "bad": 1
+    },
+    "interlocutorAvatar": "https://img2.looper.com/img/gallery/why-were-worried-about-avatar-2/its-been-over-ten-years-since-the-original-1521230253.jpg",
+    "numberOfTrades": 8,
+    "tradeHash": "4as45ADa9",
+    "messages": [
+      {
+        "id": 0,
+        "text": "Velit ex ut nostrud sint eu quis proident ex elit anim. Anim fugiat tempor minim in duis occaecat ipsum eu est non quis amet commodo non. Proident Lorem incididunt aliqua deserunt. Ad culpa do anim ut laborum cillum veniam minim duis. Duis duis voluptate ad exercitation veniam consectetur aute incididunt sunt ad aute. Proident tempor id cupidatat in id laborum pariatur. Sunt aute eiusmod ad excepteur reprehenderit sint laborum id sint id.\r\n",
+        "date": "6:6 pm",
+        "type": "SELLER_TYPE"
+      },
+      {
+        "id": 1,
+        "text": "Ea proident ex irure culpa dolore mollit ipsum proident. In dolor proident aute deserunt dolore proident sit est. Qui eiusmod id ut laboris adipisicing minim consequat aliqua. Tempor dolore ipsum dolore nisi reprehenderit. Nostrud do non dolor incididunt esse officia ut quis voluptate cupidatat. Non non do eu consequat magna occaecat dolore. Est anim ad ad aliquip cillum laboris cupidatat.\r\n",
+        "date": "10:36 am",
+        "type": "SELLER_TYPE"
+      },
+      {
+        "id": 2,
+        "text": "Nostrud ex incididunt laborum dolor irure dolore nostrud proident amet culpa pariatur. Do sint exercitation deserunt ad anim quis duis. Adipisicing nisi aliquip proident laboris. Id aliqua aliqua laborum ea ea excepteur irure irure aliquip id nisi et fugiat. Excepteur deserunt occaecat laboris eu ea qui ipsum ullamco officia aute Lorem ea duis. Incididunt elit sit culpa nulla ex ullamco. Enim ut anim deserunt aute.\r\n",
+        "date": "4:35 am",
+        "type": "BUYER_TYPE"
+      },
+      {
+        "id": 3,
+        "text": "Pariatur occaecat ullamco occaecat Lorem adipisicing nulla exercitation exercitation incididunt eu. Amet exercitation veniam culpa eiusmod velit esse cillum est id id sunt. Cupidatat excepteur esse labore ad sit est eiusmod dolor. Fugiat exercitation id nisi amet. Ad minim sunt exercitation ad sit consequat ex elit in ad amet ex. Magna aliqua ut do dolore anim dolore amet nisi tempor elit laborum excepteur. Quis ad occaecat in aute magna aliquip reprehenderit eu duis officia occaecat incididunt dolor dolor.\r\n",
+        "date": "7:40 pm",
+        "type": "SELLER_TYPE"
+      },
+      {
+        "id": 4,
+        "text": "Eu ea nostrud proident pariatur eiusmod fugiat aliqua sunt labore. Incididunt pariatur ullamco ut qui aliqua nulla sint consequat et labore qui. Et enim irure sint minim sint do. Velit laborum et culpa et deserunt voluptate duis laboris adipisicing enim. Amet enim eu nostrud labore et.\r\n",
+        "date": "11:32 am",
+        "type": "BUYER_TYPE"
+      },
+      {
+        "id": 5,
+        "text": "Laboris cupidatat velit nostrud laboris excepteur. Aute enim velit anim esse anim reprehenderit id nulla fugiat do. Veniam adipisicing aliqua incididunt exercitation Lorem in cillum ut culpa laborum fugiat quis voluptate. Elit aute enim esse elit tempor consequat dolore cupidatat deserunt veniam aute velit laboris. Nulla eiusmod anim id duis aute occaecat id laborum et.\r\n",
+        "date": "11:32 pm",
+        "type": "BUYER_TYPE"
+      },
+      {
+        "id": 6,
+        "text": "Nulla reprehenderit aliqua do culpa exercitation proident consectetur non aliqua officia. Eiusmod dolore duis tempor esse ex. Qui et id occaecat laboris anim dolore officia. Ea nulla ut pariatur proident. Veniam aute irure cupidatat quis est amet voluptate.\r\n",
+        "date": "12:42 pm",
+        "type": "BUYER_TYPE"
+      },
+      {
+        "id": 7,
+        "text": "Minim officia occaecat pariatur qui occaecat cillum. Incididunt qui anim anim velit id mollit dolor esse. Minim veniam anim dolore et Lorem velit. Irure ea aliqua in mollit proident quis cillum reprehenderit excepteur adipisicing cupidatat excepteur culpa. Enim veniam ea consequat ipsum et. Est aliquip eiusmod do minim cupidatat magna in pariatur. Nostrud aute aliqua laborum pariatur enim Lorem veniam irure reprehenderit aliqua occaecat in laboris.\r\n",
+        "date": "7:54 pm",
+        "type": "BUYER_TYPE"
+      }
+    ],
+    "newMessage": {
+      "SELLER_TYPE": true,
+      "BUYER_TYPE": false
+    }
+  },
+  {
+    "id": "5ef333a23207bf212e2ea450",
+    "isPaid": true,
+    "avatar": "https://i.pinimg.com/originals/7c/c7/a6/7cc7a630624d20f7797cb4c8e93c09c1.png",
+    "payMethod": "Amazon Gift Card",
+    "name": "Odom",
+    "startAt": "2020-06-24T10:30+03:00",
+    "rating": {
+      "good": 13,
+      "bad": 0
+    },
+    "interlocutorAvatar": "https://img2.looper.com/img/gallery/why-were-worried-about-avatar-2/its-been-over-ten-years-since-the-original-1521230253.jpg",
+    "numberOfTrades": 1,
+    "tradeHash": "4as45ADa9",
+    "messages": [
+      {
+        "id": 0,
+        "text": "Minim cillum deserunt id dolor fugiat magna id tempor magna aliquip aliquip veniam ex. Voluptate veniam exercitation aute cupidatat sit ea ipsum duis ut excepteur sunt. Mollit ullamco fugiat enim adipisicing incididunt ut anim excepteur elit enim nisi excepteur adipisicing anim. Magna mollit aute amet in esse incididunt quis deserunt nulla adipisicing laboris sit magna laborum. Ea ullamco dolore id mollit Lorem adipisicing ipsum enim sit reprehenderit nisi exercitation tempor.\r\n",
+        "date": "8:26 pm",
+        "type": "BUYER_TYPE"
+      },
+      {
+        "id": 1,
+        "text": "Do Lorem Lorem et qui eu sint. Anim enim veniam esse commodo do exercitation aliquip qui nulla duis eiusmod. Dolore ea cupidatat dolor occaecat sunt proident cillum id culpa ex. Elit est veniam exercitation aute fugiat laboris cupidatat. Adipisicing aliquip proident labore id veniam enim. Irure ad officia cillum id magna deserunt et eu. Irure et nulla ut ut quis eu.\r\n",
+        "date": "2:14 am",
+        "type": "BUYER_TYPE"
+      },
+      {
+        "id": 2,
+        "text": "Aliqua adipisicing consequat eiusmod duis ullamco cupidatat Lorem occaecat excepteur. Cillum commodo reprehenderit id magna cupidatat ea minim laborum cupidatat veniam. Ullamco proident do esse consectetur id qui. Eiusmod in ad voluptate commodo cillum exercitation sunt labore.\r\n",
+        "date": "3:14 pm",
+        "type": "BUYER_TYPE"
+      },
+      {
+        "id": 3,
+        "text": "Nulla enim aliquip nulla minim tempor minim culpa esse aliqua sint. Anim ad fugiat consectetur incididunt officia ad pariatur sunt dolore. Ex excepteur sint fugiat nostrud. Occaecat culpa nisi ipsum cupidatat ex occaecat nisi aute excepteur. Qui deserunt exercitation cillum ut sint enim id minim sunt culpa dolore exercitation incididunt.\r\n",
+        "date": "7:32 am",
+        "type": "BUYER_TYPE"
+      },
+      {
+        "id": 4,
+        "text": "Aute enim magna cupidatat sint. Eiusmod Lorem culpa ullamco aliqua qui ipsum do laborum enim sint ea nostrud. Aute laboris aliqua ea elit minim. Enim nisi mollit amet est sint. Eu nostrud dolore voluptate aliquip dolor commodo. Nostrud nulla commodo ex aliqua excepteur tempor nostrud deserunt laboris ex est. Proident duis dolor id sint tempor in velit anim consequat aliqua.\r\n",
+        "date": "4:59 am",
+        "type": "BUYER_TYPE"
+      },
+      {
+        "id": 5,
+        "text": "Proident dolor magna Lorem mollit reprehenderit cillum. Do esse anim esse nostrud aliquip consectetur reprehenderit nostrud dolore ipsum ullamco. Officia culpa reprehenderit deserunt amet consequat id nulla culpa irure mollit laboris id.\r\n",
+        "date": "7:52 pm",
+        "type": "SELLER_TYPE"
+      },
+      {
+        "id": 6,
+        "text": "Ex nisi enim nisi deserunt cupidatat eiusmod nulla ad consectetur cupidatat. Quis ad adipisicing in culpa labore et. Fugiat velit voluptate eu reprehenderit occaecat labore do do culpa ipsum nostrud. Occaecat eiusmod esse qui et esse tempor cillum ullamco.\r\n",
+        "date": "6:24 am",
+        "type": "SELLER_TYPE"
+      },
+      {
+        "id": 7,
+        "text": "Incididunt commodo ad eiusmod commodo occaecat enim laborum aliquip tempor labore. Nostrud cillum sit duis enim. Aute do veniam Lorem magna quis enim laborum ad voluptate aliquip laboris do.\r\n",
+        "date": "9:21 am",
+        "type": "SELLER_TYPE"
+      }
+    ],
+    "newMessage": {
+      "SELLER_TYPE": true,
+      "BUYER_TYPE": false
+    }
+  },
+  {
+    "id": "5ef333a28e9b566e6ab943db",
+    "isPaid": true,
+    "avatar": "https://i.pinimg.com/originals/7c/c7/a6/7cc7a630624d20f7797cb4c8e93c09c1.png",
+    "payMethod": "Amazon Gift Card",
+    "name": "Pam",
+    "startAt": "2020-06-24T01:30+03:00",
+    "rating": {
+      "good": 4,
+      "bad": 4
+    },
+    "interlocutorAvatar": "https://img2.looper.com/img/gallery/why-were-worried-about-avatar-2/its-been-over-ten-years-since-the-original-1521230253.jpg",
+    "numberOfTrades": 7,
+    "tradeHash": "4as45ADa9",
+    "messages": [
+      {
+        "id": 0,
+        "text": "Reprehenderit cupidatat in nulla id. Voluptate commodo ex aliquip eiusmod ex officia sit excepteur sunt. Mollit sint reprehenderit sit irure ut cillum qui aute. Occaecat occaecat qui est officia. Non adipisicing id culpa reprehenderit dolore aliquip. Occaecat in voluptate veniam voluptate anim fugiat magna ad adipisicing nisi occaecat officia.\r\n",
+        "date": "4:47 am",
+        "type": "SELLER_TYPE"
+      },
+      {
+        "id": 1,
+        "text": "Nulla sint veniam laboris amet fugiat nisi occaecat voluptate tempor dolor. Exercitation reprehenderit Lorem est nisi ex quis cillum amet consequat voluptate laboris. Dolore sint irure tempor excepteur velit.\r\n",
+        "date": "9:2 am",
+        "type": "SELLER_TYPE"
+      },
+      {
+        "id": 2,
+        "text": "Qui id consequat cupidatat culpa nulla magna sint nostrud Lorem pariatur elit quis amet. In sit Lorem cillum nisi est laborum amet tempor. Irure est reprehenderit excepteur ex Lorem eiusmod laboris. In minim culpa proident exercitation voluptate sint.\r\n",
+        "date": "2:37 am",
+        "type": "BUYER_TYPE"
+      },
+      {
+        "id": 3,
+        "text": "Consectetur reprehenderit aute velit pariatur qui dolore consequat pariatur do anim anim. Ex laboris pariatur velit enim adipisicing ipsum. Fugiat et sint magna labore quis deserunt.\r\n",
+        "date": "4:41 pm",
+        "type": "BUYER_TYPE"
+      },
+      {
+        "id": 4,
+        "text": "Aute aute consectetur cupidatat commodo reprehenderit enim ea esse veniam. Officia ex laboris laboris ullamco laborum officia in fugiat anim magna occaecat quis duis esse. Tempor dolore esse mollit commodo veniam. Adipisicing laboris minim laboris voluptate voluptate duis et consequat proident ad. Irure elit aute ea fugiat qui velit. Aliquip qui id ea magna sit est labore ex sit. Fugiat aliquip magna Lorem laboris in.\r\n",
+        "date": "3:47 pm",
+        "type": "SELLER_TYPE"
+      }
+    ],
+    "newMessage": {
+      "SELLER_TYPE": false,
+      "BUYER_TYPE": true
+    }
+  }
+]
